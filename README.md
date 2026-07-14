@@ -1,5 +1,5 @@
 # Progetto - Multi-Input LSTM & Econometric Volatility Forecasting
-# A.A. 2025 - 2026 -->Corso di Studi: Metodi Probabilistici e Statistici per Mercati Finanziari
+A.A. 2025 - 2026 -- Corso di Studi: Metodi Probabilistici e Statistici per Mercati Finanziari
 
 Questo repository contiene il framework di ricerca e sviluppo dedicato alla modellizzazione e alla previsione della volatilità finanziaria mediante architetture di Deep Learning Deep Ricorsive (**Multi-Input LSTM**) e modelli econometrici classici (**GARCH**).
 
