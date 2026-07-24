@@ -55,8 +55,8 @@ La divergenza riscontrata in specifici periodi (es. inizio 2026) evidenzia il **
 
 ## 4. Analisi Diagnostica dei Residui
 
-### Il Significato del Lag +6 nella Cross-Correlazione (CCF)
-Lo studio della Funzione di Cross-Correlazione ha evidenziato il picco massimo di significatività in corrispondenza del **Lag +6** (circa una settimana di borsa aperta). 
+### Il Significato del Lag +4 nella Cross-Correlazione (CCF)
+Lo studio della Funzione di Cross-Correlazione ha evidenziato il picco massimo di significatività in corrispondenza del **Lag +4** (circa una settimana di borsa aperta). 
 
 *   **Cosa NON significa:** Non indica che il modello è in ritardo o che prevede lo shock dopo una settimana. Il modello reagisce istantaneamente al tempo $t$ grazie agli impulsi del VIX.
 *   **Cosa SIGNIFICA operativamente:** Indica che la predizione formulata oggi dalla LSTM ha la massima capacità esplicativa nei confronti della **scia di instabilità e persistenza** che lo shock riversa sul mercato nei 6 giorni successivi. Si configura quindi come un eccellente *previsore di regime strutturale* a medio termine.
